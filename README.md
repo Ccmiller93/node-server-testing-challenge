@@ -14,7 +14,7 @@ Follow these steps to set up and work on your project:
 
 ### Task 2: Minimum Viable Product
 
-For this project you will use `Test Driven Development` to create a RESTful API using `Node.js` and `Express` that publishes a set of endpoints to manage a _resource_ of your choosing. Data can be stored in memory, adding a **test database is optional**.
+For this project you will use `Test Driven Development` to create a RESTful API using `Node.js` and `Express` that publishes a set of endpoints to manage a _resource_ of your choosing. Data can be stored in memory, adding a **test database is optional**. 
 
 ## Requirements
 
